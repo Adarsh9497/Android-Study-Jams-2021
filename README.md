@@ -44,5 +44,13 @@ increased drastically.
 
 ### Application Link & Future Scope :
 
+Access to .apk file - [.apk Google drive link](https://drive.google.com/file/d/1gBBd0N89WIphuQQ1LDUh74OvP4Ou9dFG/view?usp=sharing)
+
+Over the past few years, things have changed dramatically. The major reason behind the major changes is due to technology. Well, if we are talking about technology, mobile apps play a major role in this. Whether it is tracking health or streaming a new track, it is all shifted to an app.
+
+When remembering the most information at a meeting or on lectures, then people do usually end up writing down quickly the keynotes, although, it is not an easy task to synchronize the writing speed when somebody speaks. But where all these writing stuff go? People usually lose them or forget them.
+
+Next we plan to add features like sync notes across devices, notifications for task deadlines, habit tracker, sync or integrate local or google calender in the app, add widgets to the home screen of android device.
+
 
 
