@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="textColor">#000000</color>
+    <color name="cardBckGround">#FFFFFF</color>
+    <color name="strockColor">#E0E0E0E0</color>
+    <color name="indigo">#FF9800</color>
+
+</resources>
