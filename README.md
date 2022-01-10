@@ -1,4 +1,19 @@
-## 🖼 Screenshots
+# Android Study Jams 2021
+
+KeepNotes Kotlin App
+
+### Problem Statement:
+
+As a student, you take a lot of notes. Managing those notes can become very difficult if one is not careful and very organized. Technology plays a vital role in day-to-day life activities which in turn made great changes in many work fields and out of them Mobile Application is one of the major developments. Mobile Application can be used effectively for this job as they are widely used and are known for easy access.
+
+### Proposed Solution :
+
+Our main objective was to provide students with all the tools they need to take dynamic notes without over complicating the app with unnecessary features.
+We want to allow the students to focus their time and attention to absorbing content from lectures and not on overcoming cumbersome app impairments.
+So we Created an offline mobile application that makes this process easy.
+Every notes is automatically organized into sections which contain pages — letting you decide visually how you want to arrange your notes. Keep one section for your song writing, another one for recipes, or start jotting down plans for your next vacation or the new school year. Notes makes it easy to keep tabs on everything in your life.
+
+### 🖼 Screenshots
 
 <table style="width:100%">
   <tr>
@@ -7,13 +22,14 @@
     <th>Dark Theme</th>
   </tr>
   <tr>
-    <td><img src="screenshots/Home.jpg"/></td> 
-    <td><img src="screenshots/AddNotes.jpg"/></td>
-    <td><img src="screenshots/DarkMode.jpg"</td>
+    <td><img src="screenshots/home.png"/></td> 
+    <td><img src="screenshots/add.png"/></td>
+    <td><img src="screenshots/dark.png"</td>
   </tr>
 </table>
 
-### Concepts implemented in the project
+
+### Functionality & Concepts used :
 1. Room Persistence Library - To store Notes created By the User.
 2. Navigation component - To move between different fragments in-app. 
 3. Data Binding - To access the views directly and The accessing of view reduced the overhead and the app performance
@@ -22,15 +38,11 @@ increased drastically.
 5. Coroutines - To  perform database related operations asynchronously (Database Operation Include insert/delete/deleteAll/update/retrieve ALl)
 6. Material Design Library - Used throughout the app to maintain Consistency with Android Design Guideline 
 7. Dark Mode (Night Mode) - Saves Battery and Reduces strain on eyes.
+8. LiveData & Room Database : We are also using LiveData and Room Database.
 
 
 
-## 🛠 Built With 
-- [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
-- [Room persistence library](https://developer.android.com/topic/libraries/architecture/room) - The Room persistence library provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
-- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding) - The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
-- [Material Design](https://material.io/design/) - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design.
-- [Navigation Components Architecture ](https://developer.android.com/guide/navigation)- Android Jetpack's Navigation component helps you implement navigation, from simple button clicks to more complex patterns
-- [slidetoact](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin)- A simple 'Slide to Unlock' Material widget for Android, written in Kotlin [Used in app to avoid Accidental deletion of all Notes]
+### Application Link & Future Scope :
+
 
 
