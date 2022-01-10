@@ -44,7 +44,7 @@ increased drastically.
 
 ### Application Link & Future Scope :
 
-Application link - [.apk Google drive link](https://drive.google.com/file/d/1gBBd0N89WIphuQQ1LDUh74OvP4Ou9dFG/view?usp=sharing)
+Application link - [Google drive link](https://drive.google.com/drive/folders/1mxEAVoIGBz7tSRoyACtpmqcu_APmJBLZ?usp=sharing)
 
 Over the past few years, things have changed dramatically. The major reason behind the major changes is due to technology. Well, if we are talking about technology, mobile apps play a major role in this. Whether it is tracking health or streaming a new track, it is all shifted to an app.
 
